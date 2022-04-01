@@ -1,8 +1,49 @@
 ## Prologeisch of prolougeisch
-- Good Old Mother Grammarly Premium: Miki, you <s>messed up again</s> <s>you made a mistake</> you will learn something new know.
+- Good Old Mother Grammarly Premium: Miki, you <s>messed up again</s> <s>you made a mistake<s/> you will learn something new know.
 - Miki: Cool. What is it?
 - Good Old Mother Grammarly: In case you want your documentich written in markdown language to be rendered correctly, you have to put the MD extension to the end of the file name.
-- Miki: One moment school-dame Grammarly. I will fix it.
+- Miki: One moment school-dame Grammarly Premium. I will fix it.
+- Good Old Mother Grammarly Premium: Good job Miki, good job. But there is a problem.
+- Miki: Oh nooo. What is it?
+- Good Old Mother Grammarly Premium: You also messed up the strikethrougisch too. Just look below. I have an advice to you.
+- Miki: What is it?
+- Good Old Mother Grammarly Premium: Whenever you need to use HTML to extend the functionality of markdown, make sure you always write the closing tag correctly.
+- Miki: So instead of 
+"""
+</>
+"""
+ I should write
+"""
+</s>
+"""
+- Good Old Mother Grammarly Premium: Exactly, Miki. Exactly. Here is your red dot: ⭕.
+- Miki: But why is it hollowischisch?
+- Good Old Mother Grammarly Premium: That is simple. You need to collect all the pieceisch to get a real 🔴.
+- Miki: Ouch. And how many ⭕ do I need to get a 🔴?
+- Good Old Mother Grammarly Premium: 10, Miki. You need 10 ⭕ to get a 🔴.
+- Miki: Teeeen? No way. What about 7?
+- Good Old Mother Grammarly Premium: No it is ten. Every adults know that you must not change anything you have already done except adultiscth. Those bastards.
+- Miki: Can at least I keep my ⭕? Not for myself, but I would like to give it to my friends in an open-sourcish way.
+- Good Old Mother Grammarly Premium: No. You cannot do that.
+- Miki: Why?
+- Good Old Mother Grammarly Premium: Because I want those kids <s>see suffering</> to earn them on their own.
+- Miki: I see. How many 🔴 I need to get a ❤?
+- Good Old Mother Grammarly Premium: You need 10 🔴 to get a ❤.
+- Miki: Noooo way! Manality! I am not good in numbers, can you please do the calculation?
+- Manality: Sure. 10 ⭕ gives 1 🔴 and you need 10 🔴 to get the ❤ which means 10*10=100. You need 100 ⭕ to get one single ❤.
+- Nikolai: Wow. That is what I call motivating. How can I start earning ⭕s?
+- Minnie: Miki, you just made it this story in your mind, did you?
+- Miki: Of course, Minnie. Of course.
+- Minnie: Really?
+- Miki: No, I was joking aroundisch.
+
+- Minnie: Mikkkki. There is a big-big problem.
+- Miki: What is it?
+- Minnie: My supposedly red ❤ emojis became black again.
+- Mictor: Such artisch.
+- Miki: But I have already solved the mistery in my harticle [The Mystery Of The Supposedly Red ❤ Emoji AKA The Story Of How I Became A Software Developer Detective To Debug The Internet](https://mszeles.com/the-mystery-of-the-supposedly-red-emoji-aka-the-story-of-how-i-became-a-software-developer-detective-to-debug-the-internet).
+- Minnie: Yeah, but it looks like the criminalisch has escapedisch. What should we do now?
+- Miki: It is time for a <s>cigarette</s> <s>beer</s> <s>coffee</s> <s>cocoa</s> water break.
 
 ## Prologeisch
 - Good Old Mother Grammarly Premium: Sign languageisch is not universalisch as it is language specific.
