@@ -1,5 +1,11 @@
+## Prologeisch of prolougeisch
+- Good Old Mother Grammarly Premium: Miki, you <s>messed up again</s> <s>you made a mistake</> you will learn something new know.
+- Miki: Cool. What is it?
+- Good Old Mother Grammarly: In case you want your documentich written in markdown language to be rendered correctly, you have to put the MD extension to the end of the file name.
+- Miki: One moment school-dame Grammarly. I will fix it.
+
 ## Prologeisch
-- Good Old Mother Grammarly: Sign languageisch is not universalisch as it is language specific.
+- Good Old Mother Grammarly Premium: Sign languageisch is not universalisch as it is language specific.
 - Nikolai: There could be one universalisch language which might even be good to communicate with all alienisch tooisch. Idi*ts.
 - Mictor: Everybody knows one pictuerisch means 1000 wordsischs. Except my pictures. they are existing in the quantumisch world, and they meanisch unlimited wordsischs.
 - Minni: I like the idea, but should we do?
